@@ -7,14 +7,16 @@
 ## Features
  - Analog Clock, Clock Animator
  - Makes use of interactable objects using VRTK
- - Custom GrabAttach script that has an animation between grabbing and releasing the clock
+ - [Custom Grab Attach Mechanic](https://vrtoolkit.readme.io/docs/vrtk_basegrabattach) script that has an animation between grabbing and releasing the clock
+   - Coroutine based animations for custom grab mechanic
    - Grabbing and inspecting the clock (squeeze trigger)
    - Throwing the clock with finess (release trigger)
    - Recalling the clock to it's original location (touchpad)
  - SoundFx custom audio for grab and recall
  - Haptics controller feedback when the when clock attaches
  - Tooltips when you look at the controller (tutorial mode)
- -- Tooltips disable if you're holding something
+   - Tooltips disable if you're holding something
+   - Tooltips only show when looking your hands
  
 ## Getting Started
  [SteamVR](https://www.assetstore.unity3d.com/en/#!/content/32647)
