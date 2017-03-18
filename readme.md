@@ -1,9 +1,9 @@
-Andrew Boudreau Clock Demo - VR Edition
+# Andrew Boudreau Clock Demo - VR Edition
  
- Getting Started:
- - Install SteamVR from the asset store
+## Getting Started
+ Install SteamVR from the asset store
  
- Features:
+## Features
  - Analog Clock, Clock Animator
  - Makes use of interactable objects using VRTK
  - Custom GrabAttach script that has an animation between grabbing and releasing the clock
